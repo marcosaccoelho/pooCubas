@@ -12,7 +12,8 @@ public class UsoAlcOuGas {
 		} 
 		else
 		{
-			System.out.println("Melhor usar gasolina");
+			System.out.println("Resultado: " + rel);
+			System.out.println("Melhor usar gasolina");			
 		}
 	}
 }
